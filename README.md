@@ -1,3 +1,3 @@
 # Hello-World-Demo
 this is my first git repository
-Author - sharath anidu
+Author - Sharath Naidu
